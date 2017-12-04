@@ -1,1 +1,2 @@
-# batalhanaval
+Jogo: Batalha Naval
+Descrição: O jogo consiste em uma batalha entre dois jogadores, onde os mesmos poderão posicionar seus navios em diferentes locais no mar (Matriz de tamanho NxN). Cada jogador poderá realizar um tiro de canhão por vez, selecionando o destino do seu tiro (Posição da Matriz). Ganha o jogador que conseguir acertar primeiro todas as posições que todos navios ocupam na matriz.
